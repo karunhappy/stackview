@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF25172F2BD8ED07000BA913 /* OrdersVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF25172E2BD8ED07000BA913 /* OrdersVC.swift */; };
+		EF2517312BD8ED5A000BA913 /* NotificationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2517302BD8ED5A000BA913 /* NotificationVC.swift */; };
+		EF2517332BD8ED62000BA913 /* MyAccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2517322BD8ED62000BA913 /* MyAccountVC.swift */; };
+		EF2517352BD8ED6D000BA913 /* NewOrderVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2517342BD8ED6D000BA913 /* NewOrderVC.swift */; };
+		EF2517372BD8EDB8000BA913 /* TabbarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2517362BD8EDB8000BA913 /* TabbarVC.swift */; };
+		EF2517392BD8F06F000BA913 /* CustomTabbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2517382BD8F06F000BA913 /* CustomTabbar.swift */; };
 		EFC24BC52BD7F1CA00E4F6E2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFC24BC42BD7F1CA00E4F6E2 /* AppDelegate.swift */; };
 		EFC24BC72BD7F1CA00E4F6E2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFC24BC62BD7F1CA00E4F6E2 /* SceneDelegate.swift */; };
 		EFC24BC92BD7F1CA00E4F6E2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFC24BC82BD7F1CA00E4F6E2 /* ViewController.swift */; };
@@ -16,6 +22,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EF25172E2BD8ED07000BA913 /* OrdersVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrdersVC.swift; sourceTree = "<group>"; };
+		EF2517302BD8ED5A000BA913 /* NotificationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationVC.swift; sourceTree = "<group>"; };
+		EF2517322BD8ED62000BA913 /* MyAccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAccountVC.swift; sourceTree = "<group>"; };
+		EF2517342BD8ED6D000BA913 /* NewOrderVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewOrderVC.swift; sourceTree = "<group>"; };
+		EF2517362BD8EDB8000BA913 /* TabbarVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabbarVC.swift; sourceTree = "<group>"; };
+		EF2517382BD8F06F000BA913 /* CustomTabbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabbar.swift; sourceTree = "<group>"; };
 		EFC24BC12BD7F1CA00E4F6E2 /* StackView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StackView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFC24BC42BD7F1CA00E4F6E2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EFC24BC62BD7F1CA00E4F6E2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +71,12 @@
 				EFC24BC42BD7F1CA00E4F6E2 /* AppDelegate.swift */,
 				EFC24BC62BD7F1CA00E4F6E2 /* SceneDelegate.swift */,
 				EFC24BC82BD7F1CA00E4F6E2 /* ViewController.swift */,
+				EF25172E2BD8ED07000BA913 /* OrdersVC.swift */,
+				EF2517302BD8ED5A000BA913 /* NotificationVC.swift */,
+				EF2517322BD8ED62000BA913 /* MyAccountVC.swift */,
+				EF2517342BD8ED6D000BA913 /* NewOrderVC.swift */,
+				EF2517362BD8EDB8000BA913 /* TabbarVC.swift */,
+				EF2517382BD8F06F000BA913 /* CustomTabbar.swift */,
 				EFC24BCA2BD7F1CA00E4F6E2 /* Main.storyboard */,
 				EFC24BCD2BD7F1CB00E4F6E2 /* Assets.xcassets */,
 				EFC24BCF2BD7F1CB00E4F6E2 /* LaunchScreen.storyboard */,
@@ -139,7 +157,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				EFC24BC92BD7F1CA00E4F6E2 /* ViewController.swift in Sources */,
+				EF2517312BD8ED5A000BA913 /* NotificationVC.swift in Sources */,
+				EF2517332BD8ED62000BA913 /* MyAccountVC.swift in Sources */,
+				EF2517392BD8F06F000BA913 /* CustomTabbar.swift in Sources */,
+				EF25172F2BD8ED07000BA913 /* OrdersVC.swift in Sources */,
+				EF2517352BD8ED6D000BA913 /* NewOrderVC.swift in Sources */,
 				EFC24BC52BD7F1CA00E4F6E2 /* AppDelegate.swift in Sources */,
+				EF2517372BD8EDB8000BA913 /* TabbarVC.swift in Sources */,
 				EFC24BC72BD7F1CA00E4F6E2 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
